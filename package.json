@@ -2,11 +2,11 @@
   "name": "ownproject",
   "version": "1.0.0",
   "description": "abhishek project",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "Dev": "nodemon src/index.js" 
-   },
+    "Dev": "nodemon src/index.js"
+  },
   "keywords": [
     "javascript",
     "backend",
@@ -15,6 +15,7 @@
   "author": "abhishek maurya",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
   }
 }
